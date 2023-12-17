@@ -1,4 +1,4 @@
-University Admission Prediction
+
 Abstract
 In today’s competitive educational landscape, accurately predicting
 the chances of getting admission into universities has
